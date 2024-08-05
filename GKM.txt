@@ -1,35 +1,7 @@
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.27:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
+vmess://eyJhZGQiOiIxMDQuMTU2LjgxLjE3NCIsImFpZCI6IjAiLCJob3N0IjoiYmljLXBhbGFjZS5jb20iLCJpZCI6IjBhNzY5ZTIzLTZjN2EtNGMwZS04NTc2LWQzZWE0NGZhMGMwZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6ImZhc3RseS16b2h0cHRvbyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXN0bHkuY29tIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.62:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
+vmess://eyJhZGQiOiIxOTkuMjMyLjIzMi4yMjgiLCJhaWQiOiIwIiwiaG9zdCI6ImJpYy1wYWxhY2UuY29tIiwiaWQiOiIwYTc2OWUyMy02YzdhLTRjMGUtODU3Ni1kM2VhNDRmYTBjMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJmYXN0bHktem9odHB0b28iLCJzY3kiOiJhdXRvIiwic25pIjoiZmFzdGx5LmNvbSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.33:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
+vmess://eyJhZGQiOiIxNTEuMTAxLjI0NC42MSIsImFpZCI6IjAiLCJob3N0IjoiYmljLXBhbGFjZS5jb20iLCJpZCI6IjBhNzY5ZTIzLTZjN2EtNGMwZS04NTc2LWQzZWE0NGZhMGMwZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJmYXN0bHktem9odHB0b28iLCJzY3kiOiJhdXRvIiwic25pIjoiZmFzdGx5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.44:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.35:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.61:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.53:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.29:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.48:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.31:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.27:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.27:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.27:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.27:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.27:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.27:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.27:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
-
-vless://03bca079-6100-4754-8612-e40dcdde9ac5@92.223.124.27:443?security=tls&sni=cdn.gcore.com&alpn=http/1.1&fp=randomized&type=ws&path=/&host=sevunitycourse.com&encryption=none#SE-Gcore
+vmess://eyJhZGQiOiIyMTcuMTk2LjEwNi43NzAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMGE3NjllMjMtNmM3YS00YzBlLTg1NzYtZDNlYTQ0ZmEwYzBmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxMjIzOCIsInBzIjoiZmFzdGx5LXpvaHRwdG9vIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
